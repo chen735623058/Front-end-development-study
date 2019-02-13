@@ -1,0 +1,7 @@
+# 说明 这个项目主要是提供了react-native 项目集成 redux-saga 和 protobuf.js的实现
+|学习资料名称|资源地址|
+|:---|:---|
+|redux-saga |[点击前往](https://redux-saga-in-chinese.js.org/docs/api/index.html?q=)|
+|protobufJS github|[点击前往](https://github.com/dcodeIO/ProtoBuf.js/)|
+|js使用protobuf|[点击前往](https://blog.csdn.net/myiloveuuu/article/details/80626137?utm_source=blogxgwz9)|
+|javascript之ProtoBuf在websocket中的使用|[点击前往](https://www.cnblogs.com/yswenli/p/7099809.html)|

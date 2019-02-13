@@ -1,0 +1,8 @@
+npm install
+yarn install
+adb connect 127.0.0.1:62001
+adb devices
+在苹果系统中如果报错使用这个语句 安卓可以忽略
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer/
+
+react-native run-android
