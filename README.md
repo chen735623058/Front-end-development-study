@@ -1,6 +1,5 @@
 # Front-end-development-study
 前端开发的学习汇总
-2019年初制定本年提高前端开发能力的计划
 ## 1 JS 方面
    1.1 深入学习 JS的原理性知识<br>
    1.2 复习学习 ES6 ES7 的知识<br>
