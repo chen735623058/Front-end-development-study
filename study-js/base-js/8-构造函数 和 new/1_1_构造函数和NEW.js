@@ -10,9 +10,9 @@
  * @param bar
  * @constructor
  */
-function Fubar(foo,bar) {
+function Fubar(foo, bar) {
     'use strict'
-    this._foo = foo;
+    thidsdass._foo = foo;
     this._bar = bar;
 }
 
@@ -25,9 +25,9 @@ function Fubar(foo,bar) {
  * @returns {Fubar}
  * @constructor
  */
-function Fubar(foo,bar) {
-    if(!(this instanceof Fubar)){
-        return new Fubar(foo,bar);
+function Fubar(foo, bar) {
+    if (!(this instanceof Fubar)) {
+        return new Fubar(foo, bar);
     }
     this._foo = foo;
     this._bar = bar;
@@ -48,7 +48,7 @@ function Fubar(foo,bar) {
  *  函数内部可以使用new.target属性。如果当前函数是new命令调用，new.target指向当前函数，否则为undefined。
  **/
 function f() {
-    if (!new.target){
+    if (!new.target) {
         throw new Error('请使用 new 命令调用！');
     }
     // ...
@@ -59,7 +59,7 @@ function f() {
 var person1 = {
     name: '张三',
     age: 38,
-    greeting: function() {
+    greeting: function () {
         console.log('Hi! I\'m ' + this.name + '.');
     }
 };

@@ -6,4 +6,6 @@
 |1|[点击前往](https://github.com/stephentian/33-js-concepts)|
 |2|[点击前往](http://www.acfun.cn/u/13308227.aspx)|
 |3|[点击前往](http://www.cnblogs.com/TomXu/archive/2012/04/24/2438050.html)|
- 
+|4|[点击前往](https://www.cnblogs.com/bindong/p/6045957.html)|
+|4-1|[点击前往](https://segmentfault.com/a/1190000011779959)|
+

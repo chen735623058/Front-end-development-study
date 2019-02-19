@@ -13,13 +13,13 @@ function Animal() {
  * @param color
  * @constructor
  */
-function Cat(name,color) {
-    Animal.apply(this,arguments);
+function Cat(name, color) {
+    Animal.apply(this, arguments);
     this.name = name;
     this.color = color;
 }
 
-var cat1 = new Cat('大黄','黄色');
+var cat1 = new Cat('大黄', '黄色');
 console.log(cat1.species);
 
 /**
@@ -28,8 +28,10 @@ console.log(cat1.species);
  */
 Cat.prototype = new Animal();
 Cat.prototype.constructor = Cat;
-var cat1 = new Cat("大毛","黄色");
-alert(cat1.species); // 动物
+var cat1 = new Cat("大毛", "黄色");
+
+console.log(cat1.species);
+
 
 
 /**
@@ -38,7 +40,8 @@ alert(cat1.species); // 动物
  * @param Parent
  */
 function extend(Child, Parent) {
-    var F = function(){};
+    var F = function () { };
+
     F.prototype = Parent.prototype;
     Child.prototype = new F();
     Child.prototype.constructor = Child;

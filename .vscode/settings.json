@@ -1,0 +1,24 @@
+{
+    "open-in-browser.default": "{\"open-in-borwser.default\":\"Chrome\"}",
+    "view-in-browser.customBrowser": "chrome",
+    "editor.fontSize": 18,
+    "files.associations": {
+        "*.es": "javascript",
+        "*.es6": "javascript"
+    },
+    // 控制编辑器是否应呈现空白字符
+    "editor.renderWhitespace": true,
+    "editor.snippetSuggestions": "top",
+    // 启用后，将在保存文件时剪裁尾随空格。
+    "files.trimTrailingWhitespace": true,
+    // File extensions that can be beautified as javascript or JSON.
+    "beautify.JSfiles": [
+        "",
+        "es",
+        "es6",
+        "js",
+        "json",
+        "jsbeautifyrc",
+        "jshintrc"
+    ]
+}
