@@ -1,7 +1,7 @@
 {
     "open-in-browser.default": "{\"open-in-borwser.default\":\"Chrome\"}",
     "view-in-browser.customBrowser": "chrome",
-    "editor.fontSize": 18,
+    "editor.fontSize": 16,
     "files.associations": {
         "*.es": "javascript",
         "*.es6": "javascript"
@@ -11,6 +11,17 @@
     "editor.snippetSuggestions": "top",
     // 启用后，将在保存文件时剪裁尾随空格。
     "files.trimTrailingWhitespace": true,
+
+    "fileheader.customMade": {
+        "Date": "Do not edit", // 文件创建时间(不变)
+        "LastEditors": "sunxiaofan", // 文件最后编辑者
+        "LastEditTime": "Do not edit" // 文件最后编辑时间
+    },
+    "fileheader.configObj": {
+        "autoAdd": true, // 将该选项设置为true即可开启
+        "autoAlready":true
+    },
+
     // File extensions that can be beautified as javascript or JSON.
     "beautify.JSfiles": [
         "",

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="69c2b2ed-9b37-41f2-a3cd-ca1ca47682fe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" afterPath="$PROJECT_DIR$/.vscode/launch.json" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="$PROJECT_DIR$/.vscode/settings.json" />
+      <change beforePath="$PROJECT_DIR$/study-js/readme.md" afterPath="$PROJECT_DIR$/study-js/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,84 +19,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1_1_ArrayBuffer类型化数组.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/6-类型化数组/1_1_ArrayBuffer类型化数组.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1914">
-              <caret line="87" column="1" lean-forward="false" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+            <state relative-caret-position="484">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/7-DOM/index.html">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="22">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_1_节点.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/7-DOM/1_1_节点.js">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="110" column="94" lean-forward="false" selection-start-line="110" selection-start-column="94" selection-end-line="110" selection-end-column="94" />
+            <state relative-caret-position="286">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/index.html">
+      <file leaf-file-name="sw.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="110">
+              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_1_构造函数和NEW.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_1_构造函数和NEW.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="57" column="97" lean-forward="false" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_2_构造函数的继承.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_2_构造函数的继承.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_1_create vs  assign.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/9-Object-create和Object-assign/1_1_create vs  assign.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_1_单例模式.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study-js/base-js/3-设计模式/2_1_单例模式.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -101,18 +62,8 @@
       <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186428">
-              <caret line="8487" column="19" lean-forward="false" selection-start-line="8487" selection-start-column="19" selection-end-line="8487" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lib.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38698">
-              <caret line="1772" column="4" lean-forward="false" selection-start-line="1772" selection-start-column="4" selection-end-line="1772" selection-end-column="4" />
+            <state relative-caret-position="311">
+              <caret line="9735" column="4" lean-forward="false" selection-start-line="9735" selection-start-column="4" selection-end-line="9735" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -124,6 +75,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -140,7 +92,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/study-js/base-js/5.继承 多态 代码复用/1-推荐的代码复用模式.js" />
-        <option value="$PROJECT_DIR$/study-js/readme.md" />
         <option value="$PROJECT_DIR$/study-js/base-js/5.继承 多态 代码复用/3_1_推荐的代码复用模式.js" />
         <option value="$PROJECT_DIR$/study-js/base-js/5.继承 多态 代码复用/3_1_推荐的代码复用模式-原型继承.js" />
         <option value="$PROJECT_DIR$/study-js/base-js/5.继承 多态 代码复用/3_2_推荐的代码复用模式-ES5原型继承.js" />
@@ -161,20 +112,34 @@
         <option value="$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/index.html" />
         <option value="$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_2_构造函数的继承.js" />
         <option value="$PROJECT_DIR$/study-js/base-js/9-Object-create和Object-assign/1_1_create vs  assign.js" />
+        <option value="$PROJECT_DIR$/study-js/base-js/10-memoization/1_1_memoization提升递归效率.js" />
+        <option value="$PROJECT_DIR$/study-js/base-js/10-memoization/index.html" />
+        <option value="$PROJECT_DIR$/study-js/base-js/10-memoization/1_2_memoization提升阶乘效率.js" />
+        <option value="$PROJECT_DIR$/study-js/readme.md" />
+        <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/main.css" />
+        <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/manifest.json" />
+        <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html" />
+        <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sw.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="2044" />
+    <option name="y" value="245" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -191,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -208,38 +174,36 @@
               <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
               <item name="study-js" type="462c0819:PsiDirectoryNode" />
-              <item name="base-js" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
               <item name="study-js" type="462c0819:PsiDirectoryNode" />
-              <item name="base-js" type="462c0819:PsiDirectoryNode" />
-              <item name="3-设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
-              <item name="study-js" type="462c0819:PsiDirectoryNode" />
-              <item name="js-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="5_1_PWA学习项目" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/cloudgame/xscludegame/xscloudgame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/2019stude/Front-end-development-study/study-js/base-js/5.继承 多态 代码复用/3_2_推荐的代码复用模式-ES5原型继承.js" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/2019stude/Front-end-development-study/study-js/base-js/10-memoization/index.html" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\5_1_PWA学习项目" />
+      <recent name="E:\2019stude\Front-end-development-study\study-js\base-js\10-memoization" />
       <recent name="E:\2019stude\Front-end-development-study\study-js\base-js\5.继承 多态 代码复用" />
     </key>
   </component>
@@ -271,26 +235,27 @@
       <workItem from="1550109693285" duration="3516000" />
       <workItem from="1550212116352" duration="4828000" />
       <workItem from="1550457119673" duration="4656000" />
+      <workItem from="1550719226628" duration="4722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13000000" />
+    <option name="totallyTimeSpent" value="17722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2597471" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25922024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -311,6 +276,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_1_构造函数和NEW.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="57" column="97" lean-forward="false" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
+          <folding>
+            <marker date="1550542823690" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550542823690" expanded="true" signature="47:254" ph="/** 内部使用严格模式 防止构造函数使用时忘记写new ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_2_构造函数的继承.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <marker date="1550544968876" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550544968876" expanded="true" signature="65:93" ph="{...}" />
+            <marker date="1550544968876" expanded="true" signature="95:159" ph="/** 构造函数绑定 ...*/" />
+            <marker date="1550544968876" expanded="true" signature="626:772" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/9-Object-create和Object-assign/1_1_create vs  assign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1550461432533" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550461432533" expanded="true" signature="46:347" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186714">
+          <caret line="8487" column="19" lean-forward="false" selection-start-line="8487" selection-start-column="19" selection-end-line="8487" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38984">
+          <caret line="1772" column="4" lean-forward="false" selection-start-line="1772" selection-start-column="4" selection-end-line="1772" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/3-设计模式/2_1_单例模式.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1549965016513" expanded="true" signature="0:243" ph="/** create by sxf on 2019/2/12. ...*/" />
+            <marker date="1549965016513" expanded="true" signature="246:421" ph="/** 高级单例模式 ...*/" />
+            <marker date="1549965016513" expanded="true" signature="452:582" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="488:508" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="527:534" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="545:580" ph="{&quot;fn&quot;: fn...}" />
+            <marker date="1549965016513" expanded="true" signature="588:618" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/6-类型化数组/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -339,7 +371,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2420">
           <caret line="110" column="94" lean-forward="false" selection-start-line="110" selection-start-column="94" selection-end-line="110" selection-end-column="94" />
-          <folding />
+          <folding>
+            <marker date="1550216352842" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/15. ...*/" />
+            <marker date="1550216352842" expanded="true" signature="688:706" ph="/** 遍历所有子节点 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="781:839" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="840:1309" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1313:1430" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1431:1554" ph="/** hasChildNodes方法结合firstChild属性和nextSibling属性，可以遍历当前节点的所有后代节点。 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="1590:1778" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1624:1754" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1700:1748" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1815:1972" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1973:2002" ph="/** 下面是如何移除当前节点的所有子节点。 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="2029:2170" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="2112:2168" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="2171:2485" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="2490:2610" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="2830:2861" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3054:3079" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3080:3101" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3139:3166" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3167:3194" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3233:3260" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3261:3313" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3319:3532" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -473,16 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/5-继承 多态 代码复用/3_1_推荐的代码复用模式-原型继承.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -542,14 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186428">
-          <caret line="8487" column="19" lean-forward="false" selection-start-line="8487" selection-start-column="19" selection-end-line="8487" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/7-DOM/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -560,17 +598,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/7-DOM/1_1_节点.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
+        <state relative-caret-position="2420">
           <caret line="110" column="94" lean-forward="false" selection-start-line="110" selection-start-column="94" selection-end-line="110" selection-end-column="94" />
-          <folding />
+          <folding>
+            <marker date="1550216352842" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/15. ...*/" />
+            <marker date="1550216352842" expanded="true" signature="688:706" ph="/** 遍历所有子节点 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="781:839" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="840:1309" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1313:1430" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1431:1554" ph="/** hasChildNodes方法结合firstChild属性和nextSibling属性，可以遍历当前节点的所有后代节点。 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="1590:1778" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1624:1754" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1700:1748" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="1815:1972" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="1973:2002" ph="/** 下面是如何移除当前节点的所有子节点。 ...*/" />
+            <marker date="1550216352842" expanded="true" signature="2029:2170" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="2112:2168" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="2171:2485" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="2490:2610" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="2830:2861" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3054:3079" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3080:3101" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3139:3166" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3167:3194" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3233:3260" ph="{...}" />
+            <marker date="1550216352842" expanded="true" signature="3261:3313" ph="//..." />
+            <marker date="1550216352842" expanded="true" signature="3319:3532" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_1_构造函数和NEW.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="1188">
           <caret line="57" column="97" lean-forward="false" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
-          <folding />
+          <folding>
+            <marker date="1550542823690" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550542823690" expanded="true" signature="47:254" ph="/** 内部使用严格模式 防止构造函数使用时忘记写new ...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,27 +649,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/8-构造函数 和 new/1_2_构造函数的继承.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="814">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <marker date="1550544968876" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550544968876" expanded="true" signature="65:93" ph="{...}" />
+            <marker date="1550544968876" expanded="true" signature="95:159" ph="/** 构造函数绑定 ...*/" />
+            <marker date="1550544968876" expanded="true" signature="626:772" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/9-Object-create和Object-assign/1_1_create vs  assign.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1550461432533" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
+            <marker date="1550461432533" expanded="true" signature="46:347" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/3-设计模式/2_1_单例模式.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1549965016513" expanded="true" signature="0:243" ph="/** create by sxf on 2019/2/12. ...*/" />
+            <marker date="1549965016513" expanded="true" signature="246:421" ph="/** 高级单例模式 ...*/" />
+            <marker date="1549965016513" expanded="true" signature="452:582" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="488:508" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="527:534" ph="{...}" />
+            <marker date="1549965016513" expanded="true" signature="545:580" ph="{&quot;fn&quot;: fn...}" />
+            <marker date="1549965016513" expanded="true" signature="588:618" ph="/*...*/" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/10-memoization/1_1_memoization提升递归效率.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="45" />
+          <folding>
+            <marker date="1550720119327" expanded="true" signature="0:102" ph="/*...*/" />
+            <marker date="1550720119327" expanded="true" signature="145:250" ph="{...}" />
+            <marker date="1550720119327" expanded="true" signature="175:200" ph="{...}" />
+            <marker date="1550720119327" expanded="true" signature="402:712" ph="{...}" />
+            <marker date="1550720119327" expanded="true" signature="448:710" ph="{...}" />
+            <marker date="1550720119327" expanded="true" signature="480:513" ph="{...}" />
+            <marker date="1550720119327" expanded="true" signature="517:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/10-memoization/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/10-memoization/1_2_memoization提升阶乘效率.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="56" selection-end-column="40" />
+          <folding>
+            <marker date="1550721056371" expanded="false" signature="0:102" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="9735" column="4" lean-forward="false" selection-start-line="9735" selection-start-column="4" selection-end-line="9735" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
