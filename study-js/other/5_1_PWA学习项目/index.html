@@ -17,6 +17,8 @@
     if(navigator.serviceWorker != null){
         navigator.serviceWorker.register('sxf_sw.js').then(function (registortion) {
             console.log('支持sw', registortion.scope);
+        }).catch(function (whut) {
+            console.log('service worker has registered failure!');
         })
     }
 </script>
