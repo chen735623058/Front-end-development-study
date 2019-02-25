@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69c2b2ed-9b37-41f2-a3cd-ca1ca47682fe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html" afterPath="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html" />
-      <change beforePath="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sw.js" afterPath="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sxf_sw.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,26 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/6_1_PWA学习/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sxfservice-worker.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/6_1_PWA学习/sxfservice-worker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -78,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -91,12 +69,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study-js/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="55" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,10 +82,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="1_1_纯函数示例.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/base-js/11-纯函数/1_1_纯函数示例.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/base-js/11-纯函数/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="sxf_sw.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sxf_sw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="748">
               <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
               <folding />
             </state>
@@ -117,7 +115,7 @@
       <file leaf-file-name="lib.dom.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="213884">
               <caret line="9735" column="4" lean-forward="false" selection-start-line="9735" selection-start-column="4" selection-end-line="9735" selection-end-column="4" />
               <folding />
             </state>
@@ -130,8 +128,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -181,6 +179,8 @@
         <option value="$PROJECT_DIR$/study-js/other/6_1_PWA学习/sxfservice-worker.js" />
         <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/index.html" />
         <option value="$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sxf_sw.js" />
+        <option value="$PROJECT_DIR$/study-js/base-js/11-纯函数/index.html" />
+        <option value="$PROJECT_DIR$/study-js/base-js/11-纯函数/1_1_纯函数示例.js" />
       </list>
     </option>
   </component>
@@ -196,11 +196,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="227" />
-    <option name="y" value="25" />
-    <option name="width" value="1639" />
-    <option name="height" value="930" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="272" />
+    <option name="y" value="50" />
+    <option name="width" value="1540" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -218,7 +218,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,25 +234,26 @@
               <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
               <item name="study-js" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="base-js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
               <item name="study-js" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="5_1_PWA学习项目" type="462c0819:PsiDirectoryNode" />
+              <item name="base-js" type="462c0819:PsiDirectoryNode" />
+              <item name="11-纯函数" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PWADemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/2019stude/Front-end-development-study/study-js/base-js/10-memoization/index.html" />
@@ -297,26 +297,26 @@
       <workItem from="1550109693285" duration="3516000" />
       <workItem from="1550212116352" duration="4828000" />
       <workItem from="1550457119673" duration="4656000" />
-      <workItem from="1550719226628" duration="12372000" />
+      <workItem from="1550719226628" duration="14909000" />
+      <workItem from="1551064087754" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25372000" />
+    <option name="totallyTimeSpent" value="27933000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="272" y="50" width="1540" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25922024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.343852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43706778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -324,6 +324,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -340,35 +341,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38984">
-          <caret line="1772" column="4" lean-forward="false" selection-start-line="1772" selection-start-column="4" selection-end-line="1772" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/base-js/3-设计模式/2_1_单例模式.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1549965016513" expanded="true" signature="0:243" ph="/** create by sxf on 2019/2/12. ...*/" />
-            <marker date="1549965016513" expanded="true" signature="246:421" ph="/** 高级单例模式 ...*/" />
-            <marker date="1549965016513" expanded="true" signature="452:582" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="488:508" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="527:534" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="545:580" ph="{&quot;fn&quot;: fn...}" />
-            <marker date="1549965016513" expanded="true" signature="588:618" ph="/*...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study-js/base-js/6-类型化数组/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -376,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1914">
           <caret line="87" column="1" lean-forward="false" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -384,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -392,31 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2420">
           <caret line="110" column="94" lean-forward="false" selection-start-line="110" selection-start-column="94" selection-end-line="110" selection-end-column="94" />
-          <folding>
-            <marker date="1550216352842" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/15. ...*/" />
-            <marker date="1550216352842" expanded="true" signature="688:706" ph="/** 遍历所有子节点 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="781:839" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="840:1309" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1313:1430" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1431:1554" ph="/** hasChildNodes方法结合firstChild属性和nextSibling属性，可以遍历当前节点的所有后代节点。 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="1590:1778" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1624:1754" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1700:1748" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1815:1972" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1973:2002" ph="/** 下面是如何移除当前节点的所有子节点。 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="2029:2170" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="2112:2168" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="2171:2485" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="2490:2610" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="2830:2861" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3054:3079" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3080:3101" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3139:3166" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3167:3194" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3233:3260" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3261:3313" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3319:3532" ph="//..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,7 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38984">
           <caret line="1772" column="4" lean-forward="false" selection-start-line="1772" selection-start-column="4" selection-end-line="1772" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38698">
           <caret line="1772" column="4" lean-forward="false" selection-start-line="1772" selection-start-column="4" selection-end-line="1772" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1914">
           <caret line="87" column="1" lean-forward="false" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,31 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2420">
           <caret line="110" column="94" lean-forward="false" selection-start-line="110" selection-start-column="94" selection-end-line="110" selection-end-column="94" />
-          <folding>
-            <marker date="1550216352842" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/15. ...*/" />
-            <marker date="1550216352842" expanded="true" signature="688:706" ph="/** 遍历所有子节点 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="781:839" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="840:1309" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1313:1430" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1431:1554" ph="/** hasChildNodes方法结合firstChild属性和nextSibling属性，可以遍历当前节点的所有后代节点。 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="1590:1778" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1624:1754" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1700:1748" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="1815:1972" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="1973:2002" ph="/** 下面是如何移除当前节点的所有子节点。 ...*/" />
-            <marker date="1550216352842" expanded="true" signature="2029:2170" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="2112:2168" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="2171:2485" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="2490:2610" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="2830:2861" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3054:3079" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3080:3101" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3139:3166" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3167:3194" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3233:3260" ph="{...}" />
-            <marker date="1550216352842" expanded="true" signature="3261:3313" ph="//..." />
-            <marker date="1550216352842" expanded="true" signature="3319:3532" ph="//..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,10 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
           <caret line="57" column="97" lean-forward="false" selection-start-line="57" selection-start-column="97" selection-end-line="57" selection-end-column="97" />
-          <folding>
-            <marker date="1550542823690" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
-            <marker date="1550542823690" expanded="true" signature="47:254" ph="/** 内部使用严格模式 防止构造函数使用时忘记写new ...*/" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,12 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
           <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-          <folding>
-            <marker date="1550544968876" expanded="true" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
-            <marker date="1550544968876" expanded="true" signature="65:93" ph="{...}" />
-            <marker date="1550544968876" expanded="true" signature="95:159" ph="/** 构造函数绑定 ...*/" />
-            <marker date="1550544968876" expanded="true" signature="626:772" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,10 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1550461432533" expanded="false" signature="0:45" ph="/** create by sxf on 2019/2/18. ...*/" />
-            <marker date="1550461432533" expanded="true" signature="46:347" ph="//..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,15 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1549965016513" expanded="true" signature="0:243" ph="/** create by sxf on 2019/2/12. ...*/" />
-            <marker date="1549965016513" expanded="true" signature="246:421" ph="/** 高级单例模式 ...*/" />
-            <marker date="1549965016513" expanded="true" signature="452:582" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="488:508" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="527:534" ph="{...}" />
-            <marker date="1549965016513" expanded="true" signature="545:580" ph="{&quot;fn&quot;: fn...}" />
-            <marker date="1549965016513" expanded="true" signature="588:618" ph="/*...*/" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,15 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="45" />
-          <folding>
-            <marker date="1550720119327" expanded="true" signature="0:102" ph="/*...*/" />
-            <marker date="1550720119327" expanded="true" signature="145:250" ph="{...}" />
-            <marker date="1550720119327" expanded="true" signature="175:200" ph="{...}" />
-            <marker date="1550720119327" expanded="true" signature="402:712" ph="{...}" />
-            <marker date="1550720119327" expanded="true" signature="448:710" ph="{...}" />
-            <marker date="1550720119327" expanded="true" signature="480:513" ph="{...}" />
-            <marker date="1550720119327" expanded="true" signature="517:704" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="56" selection-end-column="40" />
-          <folding>
-            <marker date="1550721056371" expanded="false" signature="0:102" ph="/*...*/" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,13 +632,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="213884">
           <caret line="9735" column="4" lean-forward="false" selection-start-line="9735" selection-start-column="4" selection-end-line="9735" selection-end-column="4" />
           <folding />
         </state>
@@ -774,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/5_1_PWA学习项目/sxf_sw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="748">
           <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
           <folding />
         </state>
@@ -804,22 +683,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/11-纯函数/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/base-js/11-纯函数/1_1_纯函数示例.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="55" />
             <folding />
           </first_editor>
           <second_editor />
