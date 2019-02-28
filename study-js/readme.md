@@ -14,4 +14,5 @@
 |4|[点击前往](https://www.cnblogs.com/bindong/p/6045957.html)|
 |4-1|[点击前往](https://segmentfault.com/a/1190000011779959)|
 |5|[点击前往](https://segmentfault.com/a/1190000014639473)|
+|7|[点击前往](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)|
 
