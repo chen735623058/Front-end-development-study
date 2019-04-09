@@ -6,9 +6,9 @@
 var VSHANER_SOURCE =
     `
      attribute vec4 a_Position;
+     uniform mat4 u_xformMatrix;
      void main() {
-        gl_Position = a_Position; //设置坐标
-        gl_PointSize = 10.0; // 设置尺寸
+        gl_Position = u_xformMatrix * a_Position;
      }`;
 // 片元着色器程序
 var FSHADER_SOURCE =
@@ -16,6 +16,8 @@ var FSHADER_SOURCE =
         gl_FragColor = vec4(1.0,0.0,0.0,1.0); // 设置颜色
     }`;
 
+// 旋转的角度
+var ANGLE = 90.0;
 function main() {
     let canvas = document.getElementById('webgl');
     var gl = getWebGLContext(canvas);
@@ -34,15 +36,28 @@ function main() {
         console.log("error");
         return;
     }
+    var radian = Math.PI * ANGLE /180.0 ; //转为弧度制
+    var cosB = Math.cos(radian);
+    var sinB = Math.sin(radian);
+    var Tx = 0.5 ,Ty = 0.5, Tz = 0.0;
+    var xformMatrix = new Float32Array([
+        cosB,sinB,0.0,0.0,
+        -sinB,cosB,0.0,0.0,
+       0.0,0.0,1.0,0.0,
+       Tx,Ty,Tz,1.0
+    ]);
+    // 将旋转矩阵传入给顶点着色器
+    var u_xformMatrix = gl.getUniformLocation(gl.program, 'u_xformMatrix');
+    gl.uniformMatrix4fv(u_xformMatrix,false,xformMatrix);
 
     gl.clearColor(0.0,0.0,0.0,1.0);
     gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.drawArrays(gl.POINTS,1,1);
+    gl.drawArrays(gl.TRIANGLES,0,n);
 }
 
 function initVertexBuffers(gl) {
     var vertices = new Float32Array([
-        0.0,0.5,-0.5,-0.5,0.5,-0.5
+      0.0,0.5,-0.5,-0.5,0.5,-0.5
     ]);
     var n =3 ; // 点的个数
     // 创建缓冲区对象

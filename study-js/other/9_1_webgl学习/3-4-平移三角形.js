@@ -6,9 +6,9 @@
 var VSHANER_SOURCE =
     `
      attribute vec4 a_Position;
+     uniform vec4 u_Translation;
      void main() {
-        gl_Position = a_Position; //设置坐标
-        gl_PointSize = 10.0; // 设置尺寸
+        gl_Position = a_Position + u_Translation; //设置坐标
      }`;
 // 片元着色器程序
 var FSHADER_SOURCE =
@@ -34,15 +34,18 @@ function main() {
         console.log("error");
         return;
     }
+    var Tx = 0.5 ,Ty = 0.5, Tz = 0.0;
+    var u_Translation = gl.getUniformLocation(gl.program,'u_Translation');
+    gl.uniform4f(u_Translation,Tx,Ty,Tz,0.0);
 
     gl.clearColor(0.0,0.0,0.0,1.0);
     gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.drawArrays(gl.POINTS,1,1);
+    gl.drawArrays(gl.TRIANGLES,0,n);
 }
 
 function initVertexBuffers(gl) {
     var vertices = new Float32Array([
-        0.0,0.5,-0.5,-0.5,0.5,-0.5
+      0.0,0.5,-0.5,-0.5,0.5,-0.5
     ]);
     var n =3 ; // 点的个数
     // 创建缓冲区对象

@@ -8,7 +8,6 @@ var VSHANER_SOURCE =
      attribute vec4 a_Position;
      void main() {
         gl_Position = a_Position; //设置坐标
-        gl_PointSize = 10.0; // 设置尺寸
      }`;
 // 片元着色器程序
 var FSHADER_SOURCE =
@@ -37,14 +36,14 @@ function main() {
 
     gl.clearColor(0.0,0.0,0.0,1.0);
     gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.drawArrays(gl.POINTS,1,1);
+    gl.drawArrays(gl.TRIANGLE_STRIP,0,n);
 }
 
 function initVertexBuffers(gl) {
     var vertices = new Float32Array([
-        0.0,0.5,-0.5,-0.5,0.5,-0.5
+       -0.5,0.5,-0.5,-0.5,0.5,0.5,0.5,-0.5
     ]);
-    var n =3 ; // 点的个数
+    var n =4 ; // 点的个数
     // 创建缓冲区对象
     var vertexBuffer = gl.createBuffer();
     if(! vertexBuffer){
