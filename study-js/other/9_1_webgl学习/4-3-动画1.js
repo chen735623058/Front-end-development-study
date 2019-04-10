@@ -76,6 +76,7 @@ function initVertexBuffers(gl) {
 
 function draw(gl,n,currentAngle,modelMatrix,u_ModelMatrix) {
     modelMatrix.setRotate(currentAngle,0,0,1);
+    modelMatrix.translate(0.35,0,0);
     // 将旋转矩阵传输给顶点着色器
     gl.uniformMatrix4fv(u_ModelMatrix,false,modelMatrix.elements);
     // 清除canvas
@@ -85,6 +86,7 @@ function draw(gl,n,currentAngle,modelMatrix,u_ModelMatrix) {
 }
 var g_last = Date.now();
 function animate(angle) {
+
     var now = Date.now();
     var elapsed = now - g_last;
     g_last = now;
