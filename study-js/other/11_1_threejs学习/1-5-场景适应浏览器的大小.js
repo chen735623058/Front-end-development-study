@@ -4,20 +4,21 @@ var renderer = new THREE.WebGLRenderer();
 var cube;
 var sphere;
 var globstats;
+var plane;
 function init() {
     globstats = initStats();
     initgui();
     renderer.setClearColorHex(0xEEEEEE);
     renderer.setSize(window.innerWidth,window.innerHeight);
     renderer.shadowMapEnabled = true;
-    var axes = new THREE.AxisHelper(20);
+    var axes = new THREE.AxisHelper(10);
     scene.add(axes);
 
     var planeGemetry = new THREE.PlaneGeometry(60,20,1,1);
     var planeMaterial = new THREE.MeshLambertMaterial({color:0xcccccc});
-    var plane = new THREE.Mesh(planeGemetry,planeMaterial);
+    plane = new THREE.Mesh(planeGemetry,planeMaterial);
     plane.rotation.x = -0.5 * Math.PI;
-    plane.position.x = 15;
+    plane.position.x = controls.planeX;
     plane.position.y = 0;
     plane.position.z = 0;
     plane.receiveShadow =  true;
@@ -60,6 +61,9 @@ function init() {
 
 var step = 0;
 function renderScene() {
+    plane.position.x = controls.planeX;
+    plane.position.y = controls.planeY;
+    plane.position.z = controls.planeZ;
     cube.rotation.x += controls.rotationSpeed;
     cube.rotation.y += controls.rotationSpeed;
     cube.rotation.z += controls.rotationSpeed;
@@ -88,6 +92,9 @@ function initStats() {
 var controls = new function () {
     this.rotationSpeed = 0.02;
     this.bouncingSpeed = 0.03;
+    this.planeX = 0;
+    this.planeY = 0;
+    this.planeZ = 0;
 }
 
 
@@ -95,6 +102,9 @@ function initgui() {
     var gui = new dat.GUI();
     gui.add(controls,'rotationSpeed',0,0.5);
     gui.add(controls,'bouncingSpeed',0,0.5);
+    gui.add(controls,'planeX',0,100);
+    gui.add(controls,'planeY',0,100);
+    gui.add(controls,'planeZ',0,100);
 
 }
 
