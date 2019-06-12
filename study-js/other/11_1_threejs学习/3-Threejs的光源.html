@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            margin: 0;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div id="WebGL-output"></div>
+    <div id="Stats-output"></div>
+</body>
+<script src="lib/three.js"></script>
+<script src="lib/ParametricGeometries.js"></script><!-- 等式几何体 -->
+<script src="lib/ConvexGeometry.js"></script><!-- 高级几何体 -->
+<script src="lib/stats.js"></script> <!-- 这是一个检验库用来检查动画运行时的帧数 -->
+<script src="lib/dat.gui.js"></script> <!-- 这是一个支持可视化调试的库 -->
+
+
+<script type="text/javascript" src="lib/WebGLDeferredRenderer.js"></script> <!-- 高性能渲染器支持库 -->
+<script type="text/javascript" src="lib/ShaderDeferred.js"></script>
+<script type="text/javascript" src="lib/RenderPass.js"></script>
+<script type="text/javascript" src="lib/EffectComposer.js"></script>
+<script type="text/javascript" src="lib/CopyShader.js"></script>
+<script type="text/javascript" src="lib/ShaderPass.js"></script>
+<script type="text/javascript" src="lib/FXAAShader.js"></script>
+<script type="text/javascript" src="lib/MaskPass.js"></script>
+
+<script src="3-7-镜头光晕.js"></script>
+<script>
+    window.onload = init;
+</script>
+</html>

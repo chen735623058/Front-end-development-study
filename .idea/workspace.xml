@@ -2,11 +2,11 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-5-调试几何体的顶点.js" />
+    <bookmark url="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-4-平行光光源.js" line="85" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c2b2ed-9b37-41f2-a3cd-ca1ca47682fe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-5-场景适应浏览器的大小.js" afterPath="$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-5-场景适应浏览器的大小.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,84 +20,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2-Threejs的基本组件.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-Threejs的基本组件.html">
+      <file leaf-file-name="3-Threejs的光源.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-Threejs的光源.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="704">
+              <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-4-在运行时调试场景.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-4-在运行时调试场景.js">
+      <file leaf-file-name="3-6-矩形光源.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-6-矩形光源.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="3454">
+              <caret line="157" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-1-创建第一个场景.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-1-创建第一个场景.js">
+      <file leaf-file-name="3-7-镜头光晕.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-7-镜头光晕.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaskPass.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/lib/MaskPass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-3-聚光灯光源.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-3-聚光灯光源.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2332">
+              <caret line="106" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="209" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-4-平行光光源.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-4-平行光光源.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="76" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3-5-半球形光光源.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-5-半球形光光源.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-4-几何图形.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-4-几何图形.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="148" column="64" lean-forward="false" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
-              <folding>
-                <element signature="e#1908#3208#0" expanded="false" />
-                <element signature="n#!!block;n#render#0;n#!!block;n#init#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-5-调试几何体的顶点.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-5-调试几何体的顶点.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="148" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-6-网格的属性和方法.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-6-网格的属性和方法.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1694">
-              <caret line="83" column="49" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-7-正交投影摄像机和透视投影摄像机.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-7-正交投影摄像机和透视投影摄像机.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-8-将摄像机定位到一点上.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-8-将摄像机定位到一点上.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="1" />
+              <caret line="31" column="94" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -106,18 +93,25 @@
       <file leaf-file-name="three.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/lib/three.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="31627" column="0" lean-forward="false" selection-start-line="31627" selection-start-column="0" selection-end-line="31627" selection-end-column="0" />
+            <state relative-caret-position="298738">
+              <caret line="13579" column="0" lean-forward="false" selection-start-line="13579" selection-start-column="0" selection-end-line="13579" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParametricGeometries.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/lib/ParametricGeometries.js">
+      <file leaf-file-name="grasslight-big.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/assets/textures/ground/grasslight-big.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-2-场景的雾化效果.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-2-场景的雾化效果.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="440">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="21" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -136,8 +130,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>linkProgram</find>
-      <find>gl_PointCoord</find>
       <find>setBuffer</find>
       <find>createUniforms</find>
       <find>mousemove</find>
@@ -166,6 +158,8 @@
       <find>initTextures</find>
       <find>planeGeometry</find>
       <find>camera</find>
+      <find>bouncingSpeed</find>
+      <find>stopMovingLight</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,14 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/5-5 矩形表面上贴图.js" />
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/5-演示界面.html" />
-        <option value="$PROJECT_DIR$/study-js/js-algorithm/2-算法图解/index.html" />
-        <option value="$PROJECT_DIR$/study-js/js-algorithm/2-算法图解/1-二分查找法.js" />
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-1-三维空间观察三角形.js" />
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-1-从指定的视点观察旋转后的三角形.js" />
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-2-从指定的视点观察旋转后的三角形.js" />
-        <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-3-利用键盘改变视点.js" />
         <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-6-利用键盘改变视点+投影盒子调整.js" />
         <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-4-设置正投影盒子可视空间.js" />
         <option value="$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-6-利用键盘改变视点+透视盒子调整.js" />
@@ -225,6 +211,14 @@
         <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-7-正交投影摄像机和透视投影摄像机.js" />
         <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-Threejs的基本组件.html" />
         <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-8-将摄像机定位到一点上.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-1-环境光.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-2-点光源.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-3-聚光灯光源.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-4-平行光光源.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-5-半球形光光源.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-6-矩形光源.js" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-Threejs的光源.html" />
+        <option value="$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-7-镜头光晕.js" />
       </list>
     </option>
   </component>
@@ -241,10 +235,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -261,6 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,7 +287,36 @@
               <item name="study-js" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="11_1_threejs学习" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
+              <item name="study-js" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="11_1_threejs学习" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="textures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
+              <item name="study-js" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="11_1_threejs学习" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="textures" type="462c0819:PsiDirectoryNode" />
+              <item name="ground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-end-development-study" type="462c0819:PsiDirectoryNode" />
+              <item name="study-js" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="11_1_threejs学习" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="textures" type="462c0819:PsiDirectoryNode" />
+              <item name="lensflare" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-end-development-study" type="b2602c69:ProjectViewProjectNode" />
@@ -304,7 +328,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,16 +342,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习\assets\textures\lensflare" />
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习" />
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习\lib" />
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习\assets\textures\ground" />
+      <recent name="E:\2019stude\Front-end-development-study\study-js\other\9_1_webgl学习" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\2019stude\Front-end-development-study\study-js\other" />
       <recent name="E:\2019stude\Front-end-development-study\study-js\other\8_1_canver应用源码解读" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习" />
-      <recent name="E:\2019stude\Front-end-development-study\study-js\other\11_1_threejs学习\lib" />
-      <recent name="E:\2019stude\Front-end-development-study\study-js\other\9_1_webgl学习" />
-      <recent name="E:\2019stude\Front-end-development-study\study-js\other" />
-      <recent name="E:\2019stude\Front-end-development-study\study-js\other\9_1_webgl学习\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -384,26 +407,28 @@
       <workItem from="1558939801232" duration="1198000" />
       <workItem from="1559618251012" duration="9624000" />
       <workItem from="1559698111196" duration="15542000" />
+      <workItem from="1560158895062" duration="16881000" />
+      <workItem from="1560309177472" duration="1601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187273000" />
+    <option name="totallyTimeSpent" value="205755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16385669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11783107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -433,81 +458,11 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-7-投影矩阵 试图矩阵 模型矩阵综合例子.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-8-投影矩阵 试图矩阵 模型矩阵综合例子(变换).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="57" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-10-解决深度冲突.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-11-第一个立方体.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-12-每个面独立颜色的立方体.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="100" column="59" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/6-演示界面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/7-1-一个光照下的红色立方体.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/7-2-一个有环境光的正方体.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/cuon-matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12628">
-          <caret line="577" column="0" lean-forward="false" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/7-3-一个变化的正方体（转置矩阵）.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="80" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/9_1_webgl学习/7-4-点光源下的正方体.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -659,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
           <caret line="69" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,15 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-2-场景的雾化效果.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="21" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-968">
           <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,20 +678,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-4-几何图形.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="2420">
           <caret line="148" column="64" lean-forward="false" selection-start-line="148" selection-start-column="64" selection-end-line="148" selection-end-column="64" />
-          <folding>
-            <element signature="e#1908#3208#0" expanded="false" />
-            <element signature="n#!!block;n#render#0;n#!!block;n#init#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-5-调试几何体的顶点.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
+        <state relative-caret-position="3256">
           <caret line="148" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,54 +694,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-6-网格的属性和方法.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="83" column="49" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="1" />
+        <state relative-caret-position="1826">
+          <caret line="83" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-4-在运行时调试场景.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-7-正交投影摄像机和透视投影摄像机.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-Threejs的基本组件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-8-将摄像机定位到一点上.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="90" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-1-环境光.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="76" column="6" lean-forward="false" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-2-点光源.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="130" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-3-聚光灯光源.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="106" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="209" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-4-平行光光源.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-2-场景的雾化效果.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="21" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/assets/textures/ground/grasslight-big.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/lib/MaskPass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/lib/three.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="31627" column="0" lean-forward="false" selection-start-line="31627" selection-start-column="0" selection-end-line="31627" selection-end-column="0" />
+        <state relative-caret-position="298738">
+          <caret line="13579" column="0" lean-forward="false" selection-start-line="13579" selection-start-column="0" selection-end-line="13579" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/1-4-在运行时调试场景.js">
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-6-矩形光源.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="3454">
+          <caret line="157" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-7-正交投影摄像机和透视投影摄像机.js">
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-5-半球形光光源.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        <state relative-caret-position="154">
+          <caret line="31" column="94" lean-forward="false" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-Threejs的基本组件.html">
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-Threejs的光源.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="704">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/2-8-将摄像机定位到一点上.js">
+    <entry file="file://$PROJECT_DIR$/study-js/other/11_1_threejs学习/3-7-镜头光晕.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="1" />
+        <state relative-caret-position="712">
+          <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding />
         </state>
       </provider>
