@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "react": "16.6.3",
     "react-native": "0.57.8",
     "react-native-protobuf": "^5.0.1",
